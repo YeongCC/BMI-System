@@ -1,7 +1,7 @@
 # BMI-System
 <br />
 <div align="center">
-  <a href="https://github.com/YeongCC/BMI-System/tree/main/image"><img src="image/bmi.png" /></a>
+  <a href="https://github.com/YeongCC/BMI-System"><img src="image/bmi.png" /></a>
 </div>
 <br />
 
