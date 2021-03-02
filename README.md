@@ -18,7 +18,7 @@ using the JavaFX to develop the bmi system
 ## Attention
 In the BMIsystem file can directly use the application
 
-### Requirement Software
+## Requirement Software
 - Neatbean (better version is 8.2RC)
 
 - JDK (better version is jdk-8u111-nb-8_2-windows-x64)
