@@ -15,6 +15,9 @@ By developing this project, we can achieve the objective below
 
 using the JavaFX to develop the bmi system
 
+## Attention
+In the BMIsystem file can directly use the application
+
 ### Requirement Software
 - Neatbean (better version is 8.2RC)
 
